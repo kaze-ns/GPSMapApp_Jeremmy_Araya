@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AIzaSyAZhwRQQr5mu6tFXW8C0rJUUwAlMIZMpEc" templateMergeStrategy="preserve" translatable="false">GPSMapApp</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAZhwRQQr5mu6tFXW8C0rJUUwAlMIZMpEc</string>
 </resources>
